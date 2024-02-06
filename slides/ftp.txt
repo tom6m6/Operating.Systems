@@ -1,0 +1,5 @@
+ftp://os2022:os2022@58.198.177.40  资料下载
+
+ftp://projectsubmit:os2022@58.198.177.40   作业上传
+
+用软件 filezilla打开
