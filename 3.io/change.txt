@@ -1,0 +1,12 @@
+diff --git a/minix/drivers/storage/memory/memory.c b/minix/drivers/storage/memory/memory.c
+index fb5aeaa..9acb114 100644
+--- a/minix/drivers/storage/memory/memory.c
++++ b/minix/drivers/storage/memory/memory.c
+@@ -34,7 +34,7 @@
+ #include "local.h"
+ 
+ /* ramdisks (/dev/ram*) */
+-#define RAMDISKS     6
++#define RAMDISKS    7 
+ 
+ #define RAM_DEV_LAST (RAM_DEV_FIRST+RAMDISKS-1)
